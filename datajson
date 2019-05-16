@@ -1,0 +1,28 @@
+{
+    "name": "品牌精选-天天优选",
+    "id": "1",
+    "ctype": "level2",
+    "item": [
+        {
+            "id": "918#  ",
+            "price": "￥4760起",
+            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
+        },
+        {
+            "id": "918#  ",
+            "price": "￥4760起",
+            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
+        },
+        {
+            "id": "918#  ",
+            "price": "￥4760起",
+            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
+        },
+        {
+            "id": "918#  ",
+            "price": "￥4760起",
+            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
+        }
+        
+    ]
+}
