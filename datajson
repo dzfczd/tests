@@ -1,27 +1,31 @@
 {
-    "name": "品牌精选-天天优选",
-    "id": "1",
-    "ctype": "level2",
-    "item": [
+    "name": "全屋定制",
+    "id": "110611",
+   
+    "products": [
         {
             "id": "918#  ",
             "price": "￥4760起",
+            "name":"全屋整套套餐一居室一室一厅套一专属",
+            "src": "https://img.alicdn.com/imgextra/i3/765897259/O1CN01liiQ3223UfaLTGxDp_!!765897259.jpg_2200x2200Q100s50.jpg_.webp"
+        },
+        {
+            "id": "919#  ",
+            "price": "￥4760起",
+            "name":"全屋定制小户型三房一厅整套家具",
+            "src": "https://img.alicdn.com/imgextra/i1/848674446/O1CN011iiJMVvvF8qEIe1_!!848674446.jpg_2200x2200Q100s50.jpg_.webp"
+        },
+        {
+            "id": "920#  ",
+            "price": "￥4760起",
+             "name":"两室一厅成套家具套装整装套餐",
             "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
         },
         {
-            "id": "918#  ",
+            "id": "921#  ",
             "price": "￥4760起",
-            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
-        },
-        {
-            "id": "918#  ",
-            "price": "￥4760起",
-            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
-        },
-        {
-            "id": "918#  ",
-            "price": "￥4760起",
-            "src": "http://nkjjq.cn/uploads/product/main_picture/3102107/normal_1.jpg"
+            "name":"精选两室两厅一站式购齐",
+            "src": "https://nkjjq.cn/uploads/product/main_picture/14605181/tv_thumb_1.jpg"
         }
         
     ]
